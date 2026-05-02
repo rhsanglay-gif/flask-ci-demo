@@ -23,7 +23,4 @@ Open Docker Desktop and make sure it is running.
 - Navigate to the project directory:
 
 ```bash
-cd flashee
-
-```bash
 docker-compose up
