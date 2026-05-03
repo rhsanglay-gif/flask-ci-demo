@@ -22,5 +22,4 @@ Open Docker Desktop and make sure it is running.
 - Go to **Terminal → New Terminal**
 - Navigate to the project directory:
 
-```bash
-docker-compose up
+
